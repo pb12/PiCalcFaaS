@@ -1,0 +1,14 @@
+{
+  "name": "picalc",
+  "version": "1.0.0",
+  "description": "Pi Calculation for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pieter Burghouwt",
+  "license": "MIT",
+  "dependencies": {
+    "decimal.js": "^10.2.0"
+  }
+}
